@@ -1,6 +1,8 @@
 # Earthquake-Damage-Grade-Prediction
 
-## Project Link: https://drive.google.com/file/d/1-B8F8N1r6rhuQNLuSR-0tlle0nPvgV_o/view?usp=sharing
+## Project Link
+
+You can access the project files here: [Project Link](https://drive.google.com/file/d/1-B8F8N1r6rhuQNLuSR-0tlle0nPvgV_o/view?usp=sharing)
 
 ## 1. Introduction
 Earthquakes cause severe damage to infrastructure, leading to loss of life and economic setbacks. Predicting the extent of damage can help authorities take proactive measures in disaster management and resource allocation. This project aims to classify buildings into different damage categories based on various structural and environmental features using machine learning models.
